@@ -1,4 +1,4 @@
-# Tinder with Redux
+# Book List Using Redux
 
-A close representation of Tinder built with Redux
+Learning Redux
 
