@@ -1,8 +1,8 @@
 export default function() {
 	return [
-		{title: 'Random Title'},
-		{title: 'Learning Redux'},
-		{title: 'Testing This'},
-		{title: 'The Fourth One'}
+		{title: 'Random Title', pages: 10},
+		{title: 'Learning Redux', pages: 500},
+		{title: 'Testing This', pages: 954},
+		{title: 'The Fourth One', pages: 4}
 	];
 }
